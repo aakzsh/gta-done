@@ -1,0 +1,33 @@
+.body1{
+  background-color: black;
+}
+
+.heading{
+  color: white;
+  font-size: 40px;
+  font-family: fantasy;
+}
+
+.subheading{
+  color: white;
+  font-size: 25px;
+  font-family: serif;
+
+}
+
+.textnormal{
+  color: white;
+  font-size: 20px;
+  font-family: serif;
+}
+
+.footer{
+ color: white;
+ margin-bottom: 0;
+ vertical-align: bottom;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: white;
+}
