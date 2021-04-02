@@ -11,7 +11,9 @@ def index():
 
 @app.route('/output', methods=['GET', 'POST'])
 def output():
-    return render_template('output.html')
+    text = request.form.get("enter")
+    data = text
+    return render_template('output.html', data=text)
 
 
 if __name__ == "__main__":
