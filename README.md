@@ -53,6 +53,7 @@ python app.py
 <br>
 ### 2.	Commiting your changes
 <br>
+
 ### 3. Creating a Pull Request
 
 ![Creating a Pull Request](static/pull_request.jpg)
