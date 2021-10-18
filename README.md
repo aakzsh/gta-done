@@ -52,7 +52,8 @@ python app.py
 ![Forking a Repo](static/fork.jpg)
 <br>
 ### 2.	Commiting your changes
-<br> 
-###  3. Creating a Pull Request
+<br>
+
+### 3. Creating a Pull Request
 
 ![Creating a Pull Request](static/pull_request.jpg)
