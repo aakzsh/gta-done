@@ -8,7 +8,7 @@ Are you a student who is bored of writing his/her long assignments and making pd
 <br>
 
 ## What website does?
-Basically it take input as word, sentence or paragraph including punctuations anything you want to add in your PDF and output these words in handwritten form and then you can download it as PDF. As simple as that.
+Basically it take input as word, sentence or paragraph including punctuations anything you want to add in your PDF and output these words in handwritten form and then you can download it as PDF and submit it as your assignment.
 
 <br>
 
@@ -23,7 +23,6 @@ Basically it take input as word, sentence or paragraph including punctuations an
 
 ## Executing this project on your PC
 -	You need to clone this repository on your PC
--	Opening It in any IDE(eg. VSCode) 
 -	In the terminal enter following command to download required resources 
 ```
 pip install -r requirements.txt
