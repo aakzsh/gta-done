@@ -27,7 +27,7 @@ Basically it take input as word, sentence or paragraph including punctuations an
 ```
 pip install -r requirements.txt
 ```
--	To run this Site enter following in the terminal
+-	To run this WebApp enter following in the terminal
 ```
 python app.py
 ```
