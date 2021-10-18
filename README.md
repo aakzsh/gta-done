@@ -46,7 +46,7 @@ python app.py
 
 
 ## How you can contribute 
-###You can contribute to this project by –
+### You can contribute to this project by –
 ### 1.	Forking this repository
 
 ![Forking a Repo](static/fork.jpg)
