@@ -46,13 +46,13 @@ python app.py
 
 
 ## How you can contribute 
-You can contribute to this project by –
-1.	Forking this repository
+###You can contribute to this project by –
+### 1.	Forking this repository
 
 ![Forking a Repo](static/fork.jpg)
 <br>
-2.	Commiting your changes
+### 2.	Commiting your changes
 <br>
-3. Creating a Pull Request
+### 3. Creating a Pull Request
 
 ![Creating a Pull Request](static/pull_request.jpg)
