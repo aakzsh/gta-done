@@ -14,7 +14,7 @@ Basically it take input as word, sentence or paragraph including punctuations an
 <!--<a href="https://www.python.org/about/"> <img align="left" alt="Flask "  src="static/icons/flask.png" /> </a>-->
 <a href="https://www.python.org/about/"> <img align="left" alt="Python"  src="static/icons/python.png" /> </a> 
 <a href=""> <img width="50" height="32" align="left" alt="HTML5"  src="static/icons/html5.png" /> </a>
-<a href=""> <img width="32" height="50" align="left" alt="CSS3"  src="static/icons/css3.png" /> </a>
+<a href=""> <img width="32" height="40" align="left" alt="CSS3"  src="static/icons/css3.png" /> </a>
 
 <br>
 
