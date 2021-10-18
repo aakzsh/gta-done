@@ -80,6 +80,10 @@ def output():
             flags.append("static/colon.png")
         elif x == '.':
             flags.append("static/dot.png")
+        elif x == '"' or x=="'":
+            flags.append("static/_(1).png")
+        elif x == ',':
+            flags.append("static/,.png")
         elif x == ' ':
             line = line + 1
             flags.append("static/space.png")
