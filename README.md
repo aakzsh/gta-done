@@ -27,9 +27,7 @@ Basically it take input as word, sentence or paragraph including punctuations an
 <img width="32" height="40" align="left" alt="CSS3"  src="static/icons/css3.png" />
 <a href="https://code.visualstudio.com/docs"> <img width="32" height="40" align="left" alt="VSCode"  src="static/icons/vscode.png" /> </a>
 
-<br>
-
-## Executing this project on your PC
+<br>## Executing this project on your PC
 -	You need to clone this repository on your PC
 -	In the terminal enter following command to download required resources 
 ```
