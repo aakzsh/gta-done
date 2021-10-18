@@ -10,6 +10,12 @@ Are you a student who is bored of writing his/her long assignments and making pd
 ## What website does?
 Basically it take input as word, sentence or paragraph including punctuations anything you want to add in your PDF and output these words in handwritten form and then you can download it as PDF and submit it as your assignment.
 
+1. On this page user can input the text.
+![Input Page](static/input.png)
+<br>
+2. This is the output page from where user can download PDF.
+![Output Page](static/output.png)
+
 <br>
 
 ## Tech used for this project
