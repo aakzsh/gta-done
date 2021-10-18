@@ -1,3 +1,7 @@
+![This is an image](static/logo.png)
+
+<br>
+
 ## gta-done(or Get the Assignment – done)
 Are you a student who is bored of writing his/her long assignments and making pdf of it and then submitting it. So here we are, came up with a website named gta-done(Get the Assignment – Done) that makes this process easy for you. 
 
