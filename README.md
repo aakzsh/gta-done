@@ -1,5 +1,3 @@
-![This is an image](static/icons/hacktoberfest.svg)
-
 <br>
 
 ## gta-done(or Get the Assignment – done)
