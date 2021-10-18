@@ -40,6 +40,8 @@ python app.py
 You can contribute to this project by –
 1.	Forking this repository
 ![This is an image](static/fork.jpg)
-2.	Commiting your changes 
-3.	Pull Request
+<br>
+2.	Commiting your changes
+<br>
+4.	Pull Request
 ![This is an image](static/pull_request.jpg)
