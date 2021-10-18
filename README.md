@@ -11,9 +11,11 @@ Are you a student who is bored of writing his/her long assignments and making pd
 Basically it take input as word, sentence or paragraph including punctuations anything you want to add in your PDF and output these words in handwritten form and then you can download it as PDF and submit it as your assignment.
 
 1. On this page user can input the text.
+
 ![Input Page](static/input.png)
 <br>
 2. This is the output page from where user can download PDF.
+
 ![Output Page](static/output.png)
 
 <br>
@@ -23,6 +25,8 @@ Basically it take input as word, sentence or paragraph including punctuations an
 <a href="https://www.python.org/about/"> <img align="left" alt="Python"  src="static/icons/python.png" /> </a> 
 <img width="50" height="32" align="left" alt="HTML5"  src="static/icons/html5.png" />
 <img width="32" height="40" align="left" alt="CSS3"  src="static/icons/css3.png" />
+<a href="https://code.visualstudio.com/docs"> <img width="32" height="40" align="left" alt="VSCode"  src="static/icons/vscode.png" /> </a> 
+
 
 <br>
 <br>
