@@ -25,7 +25,7 @@ Basically it take input as word, sentence or paragraph including punctuations an
 <a href="https://www.python.org/about/"> <img align="left" alt="Python"  src="static/icons/python.png" /> </a> 
 <img width="50" height="32" align="left" alt="HTML5"  src="static/icons/html5.png" />
 <img width="32" height="40" align="left" alt="CSS3"  src="static/icons/css3.png" />
-<a href="https://code.visualstudio.com/docs"> <img width="32" height="40" align="left" alt="VSCode"  src="static/icons/vscode.png" /> </a>
+<a href="https://code.visualstudio.com/docs"> <img width="50" height="40" align="left" alt="VSCode"  src="static/icons/vscode.png" /> </a>
 
 <br>
 
