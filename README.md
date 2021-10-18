@@ -43,6 +43,6 @@ You can contribute to this project by –
 <br>
 2.	Commiting your changes
 <br>
-3. Pull Request
+3. Creating a Pull Request
 
 ![Creating a Pull Request](static/pull_request.jpg)
