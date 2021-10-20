@@ -3,13 +3,21 @@
 <br>
 
 ## gta-done(or Get the Assignment – done)
-Are you a student who is bored of writing his/her long assignments and making pdf of it and then submitting it. So here we are, came up with a website named gta-done(Get the Assignment – Done) that makes this process easy for you. 
+Have you ever had a long assignment that needs to be handwritten? Are you a student who is bored of making a pdf of it? This can be accomplished quickly with this app!
 
 <br>
 
-## What website does?
-Basically it take input as word, sentence or paragraph including punctuations anything you want to add in your PDF and output these words in handwritten form and then you can download it as PDF and submit it as your assignment.
+## How does it work?
+Simply paste your word, sentence, or paragraph (including punctuation) into the text field and hit the submit button.  It brings you to another page with the handwritten version of the text which you can either print or download as a PDF to submit as your assignment.
 
+<br>
+
+## Live version
+The live website's link is [here](https://ima-do-smart.study).
+
+<br>
+
+## Instructions
 ### 1. On this page user can input the text.
 
 ![Input Page](static/input.png)
@@ -41,7 +49,6 @@ python app.py
 ```
 
 <br>
-
 
 ## How you can contribute 
 ### You can contribute to this project by –
