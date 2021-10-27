@@ -1,7 +1,12 @@
+
+
+
+
 @font-face {
     font-family: 'pricedown';
     src: url(/static/pricedown_bl.ttf);
 }
+
 body{
   padding:0;
   margin:0;
@@ -134,12 +139,6 @@ a:hover{
     cubic-bezier(.3, .7, .4, 1);
 }
 
-@media (min-width: 768px) {
-  .button-82-front {
-    font-size: 1.25rem;
-    padding: 12px 42px;
-  }
-}
 
 .button-82-pushable:hover {
   filter: brightness(110%);
@@ -174,3 +173,39 @@ a:hover{
 .button-82-pushable:focus:not(:focus-visible) {
   outline: none;
 }
+
+@media (max-width:575px){
+  .text-form{
+    max-width:85%;  
+  }
+  .textnormal{
+    padding: 0;
+  }
+}
+
+@media (min-width:576px){
+  .text-form{
+    max-width:70%;  
+  }
+  .textnormal{
+    padding: 0;
+  }
+}
+
+
+@media (min-width: 768px) {
+  .button-82-front {
+    font-size: 1.25rem;
+    padding: 12px 42px;
+  }
+  .textnormal{
+    padding: 0 2em;
+  }
+}
+
+@media (min-width:1200px){
+  .text-form{
+    max-width:35%;
+  }
+}
+
